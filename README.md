@@ -1,4 +1,4 @@
-Insatall dependencies:
+Install dependencies:
 ```
 npm install
 ```
